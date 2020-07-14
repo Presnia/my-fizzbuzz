@@ -11,8 +11,8 @@ function fizzBuzz() {
     else if (i % 3 === 0) {
       console.log("fizz");
     } else {
-      let a = i.toString;
-      console.log(i.toString());
+      let a = i.toString();
+      console.log(a);
     }
   }
 }
